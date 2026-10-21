@@ -1123,6 +1123,8 @@
     <li IfModActive="koni.misc.toxlamps">Mods and Shit/Toxlamps</li>
     <li IfModActive="talias.storage">Mods and Shit/Talias Storage</li>
     <li IfModActive="kongkim.researchdata">Mods and Shit/Research Data</li>
+    <li IfModActive="pebblecat.electricpods">Mods and Shit/Electric Pod Launchers</li>
+    <li IfModActive="rimworld.superindustrialdeepdrill">Mods and Shit/Super Industrial DeepDrill</li>
     <!-- (Add new mods here ^^^^^) -->
   </v1.6>
 </loadFolders>
